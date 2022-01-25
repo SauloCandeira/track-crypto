@@ -1,0 +1,8 @@
+[30-Dec-2021 18:10:20 America/Fortaleza] PHP Warning:  curl_init() expects parameter 1 to be string, array given in /home2/hktecb41/public_html/HK/Oracle/oracle-prophet/web-scrap.php on line 23
+[30-Dec-2021 18:10:20 America/Fortaleza] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home2/hktecb41/public_html/HK/Oracle/oracle-prophet/web-scrap.php on line 24
+[30-Dec-2021 18:10:20 America/Fortaleza] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home2/hktecb41/public_html/HK/Oracle/oracle-prophet/web-scrap.php on line 25
+[30-Dec-2021 18:10:20 America/Fortaleza] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home2/hktecb41/public_html/HK/Oracle/oracle-prophet/web-scrap.php on line 26
+[30-Dec-2021 18:10:23 America/Fortaleza] PHP Warning:  curl_init() expects parameter 1 to be string, array given in /home2/hktecb41/public_html/HK/Oracle/oracle-prophet/web-scrap.php on line 23
+[30-Dec-2021 18:10:23 America/Fortaleza] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home2/hktecb41/public_html/HK/Oracle/oracle-prophet/web-scrap.php on line 24
+[30-Dec-2021 18:10:23 America/Fortaleza] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home2/hktecb41/public_html/HK/Oracle/oracle-prophet/web-scrap.php on line 25
+[30-Dec-2021 18:10:23 America/Fortaleza] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home2/hktecb41/public_html/HK/Oracle/oracle-prophet/web-scrap.php on line 26
